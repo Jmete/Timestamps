@@ -12,19 +12,19 @@ The app runs as a continuous timer in the background which allows a user to keep
 
 # How It Works
 
-Using Timestamper is easy!
+Using Timestamps is easy!
 
-1) Open Timestamper
+1) Open Timestamps
 
 2) When you are ready to begin your activity, make sure to press 'ENTER' key with Timestamper window in focus to begin tracking the time.
 
-Example: Start your stream, then quickly go to the Timestamper window and press the             'ENTER' key. Timestamper is now working.
+Example: Start your stream, then quickly go to the Timestamps window and press the 'ENTER' key. Timestamps is now working.
 
 3) Press the \ key at any time to log a timestamp.
 
-Note: The Timestamper window does NOT need to be in focus for this to work. Simply press the \ key at any time when Timestamper is working (keeping track of time) and it will log the timestamp. Go ahead and keep focus on your game, Timestamper will work in the background!
+Note: The Timestamps window does NOT need to be in focus for this to work. Simply press the \ key at any time when Timestamps is working (keeping track of time) and it will log the timestamp. Go ahead and keep focus on your game, Timestamps will work in the background!
 
-4) When you are done your session. Press the ESCAPE key to stop Timestamper.
+4) When you are done your session. Press the ESCAPE key to stop Timestamps.
 
 5) Your log file of all your timestamps will be in the Timestamps folder. The files are named according to the date and time that you started the session.
 
